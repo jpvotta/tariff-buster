@@ -1,0 +1,3 @@
+[submodule "flyte-sdk"]
+	path = flyte-sdk
+	url = git@github.com:flyteorg/flyte-sdk.git
